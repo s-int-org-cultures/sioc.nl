@@ -36,19 +36,7 @@ p.normal, li{
 
 #footer {
   margin: 50px auto;
-  width: 130px;
-}
-
-a.social_links {
-  color: rgb(140, 140, 140);
-  margin-right: 10px;
-}
-a.social_links:visited {
-  color: rgb(140, 140, 140);
-}
-
-a.social_links:hover {
-  color: rgb(51, 51, 51);
+  width: 150px;
 }
 
 a {
